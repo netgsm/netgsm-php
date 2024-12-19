@@ -1,0 +1,22 @@
+{
+    "name": "netgsm/bulk-sms",
+    "description": "Netgsm Sms integration package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Netgsm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Netgsm",
+            "email": "teknikdestek@netgsm.com.tr"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
