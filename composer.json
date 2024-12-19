@@ -1,5 +1,5 @@
 {
-    "name": "netgsm/bulk-sms",
+    "name": "netgsm/netgsm-php",
     "description": "Netgsm Sms integration package",
     "type": "library",
     "license": "MIT",
